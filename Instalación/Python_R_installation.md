@@ -58,6 +58,7 @@ instalación:
 
 3. Ejecutar el programa, aceptar las indicaciones y listo. 
 
+### En clase explicaré cómo incorporar Julia en anaconda - python 
 
 ## <a name="Anaconda"></a> Instalación de Anconda
 
@@ -73,7 +74,7 @@ Anaconda es una Suite de código abierto que abarca una serie de aplicaciones, l
   
 
 ## <a name="case_1"></a> **Caso 1: Anaconda o python no están instalados en la computadora**
-We will install Anaconda first and then set up  features to run R in Jupyter. 
+
 
 ### <a name="anaconda"></a>I. Instalación
 
